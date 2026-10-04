@@ -1,0 +1,77 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="pervy-pl4", Первый канал
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_1TV_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="rossia1-pl4", Россия 1
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA1_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png", Матч!
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="ntv-pl4", НТВ
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_NTV_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="5kanal-ru-pl4" tvg-logo="https://iptvx.one/picons/5kanal-ru.png", Пятый канал
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_5TV_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura.png", Россия К
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="rossia-24", Россия 24
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="karusel-pl4" tvg-logo="https://iptvx.one/picons/karusel.png", Карусель
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="otr-pl4", ОТР
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_OTR_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="tvcentr-pl4", ТВЦ
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_TVC_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="rentv-pl4", РЕН ТВ
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="spas-pl2", СПАС
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_SPAS/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="sts-pl4" tvg-logo="https://iptvx.one/picons/sts.png", СТС
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_STS_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="domashny-pl4" tvg-logo="https://iptvx.one/picons/domashny-int.png", Домашний
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="tv3-ru-pl4", ТВ3
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TV3_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="piatnica-pl4", Пятница!
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="zvezda-pl4", Звезда
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="mir-pl4" tvg-logo="https://iptvx.one/picons/mir.png", МИР
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_MIR_KEMOBL/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="tnt-int-cis" tvg-logo="https://iptvx.one/picons/tnt.png", ТНТ
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TNT_NVKZ/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="muztv-pl4" tvg-logo="https://iptvx.one/picons/muztv.png", МУЗ ТВ
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV_KEMOBL/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="10kanal-novokuzneck" tvg-logo="https://iptvx.one/picons/10kanal-novokuzneck.png", 10 канал (Новокузнецк)
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК", Кузбасс Первый
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_GTRK/variant.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="ntv-xit", НТВ ХИТ
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="ntv-serial", НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="ntv-style", НТВ-Стиль
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="Че", Че!
+https://a3285276876-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="russky-bestseller", Русский Бестселлер
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="russky-roman", Русский Роман
+http://stream.mcquack.net/266/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="russky-detektiv", Русский Детектив
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="smotrim-100-prazdnik", Усадьба
+http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="domkino", ДОМ КИНО
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="domkino-premium", ДОМ КИНО ПРЕМИУМ
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="НОВОКУЗНЕЦК" tvg-id="indiyskoe-kino", Индийское кино
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 tvg-id="Dushevnoe.ru@HD",Dushevnoe HD (1080p)
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD",Mosfilm Gold Collection (576p)
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 tvg-id="Nashe.ru@HD",Nashe HD (576p)
+http://stream.mcquack.net/217/index.m3u8
+
+
+
